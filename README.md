@@ -1,3 +1,3 @@
 # my-first-repo
 ![jada](jada.jpg)
-<img src="" alt="" width="200">
+<img src="jada.jpg" alt="jada" width="200">
